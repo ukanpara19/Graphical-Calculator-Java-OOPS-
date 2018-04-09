@@ -45,7 +45,6 @@ public class Cal extends JFrame {
 	protected static JList<String> history = new JList();
 	protected static String[] color = { "Black", "Red", "Green", "Blue" };
 	protected static JComboBox comboBox = new JComboBox(color);
-
 	/**
 	 * Create the frame.
 	 */
