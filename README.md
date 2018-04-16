@@ -7,3 +7,6 @@ A Graphing Calculator is used to draw graphs for various valid eqations along wi
 •	The application implements a flow layout and uses concepts like encapsulation, modularity and hierarchy from Object Oriented Principles.
 
 •	This Calculator has additional panel of scientific calculator which includes all the features of project scientific calculator.
+
+
+<img width="1225" alt="screen shot 2018-04-16 at 4 54 42 pm" src="https://user-images.githubusercontent.com/33382057/38840977-f016a58c-4196-11e8-938a-c72cbaf316a4.png">
